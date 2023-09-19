@@ -1,0 +1,12 @@
+{
+  "request": {
+    "name": null,
+    "job": "The Matrix"
+  },
+  "response": {
+    "name": "#string",
+    "job": "The Matrix",
+    "id": "#string",
+    "createdAt": "#notnull"
+  }
+}
